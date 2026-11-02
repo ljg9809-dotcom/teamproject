@@ -2,6 +2,8 @@
 
 HTML, CSS, JavaScript로 만든 모바일 우선 웹 앱 시험본입니다.
 
+**[경상도in 부산 웹앱 바로 보기](https://ljg9809-dotcom.github.io/teamproject/)**
+
 ## 실행
 
 `dist/index.html`을 Chrome 또는 Edge로 열면 됩니다. 별도 패키지 설치나 빌드는 필요하지 않습니다. 사진과 글꼴을 불러오려면 인터넷 연결이 필요합니다.
@@ -26,4 +28,4 @@ HTML, CSS, JavaScript로 만든 모바일 우선 웹 앱 시험본입니다.
 - 로컬 HTTP 응답 200 확인
 - 390px 모바일 화면에서 지역 필터, 음식 저장, 상세 화면, 게시글 등록 및 새로고침 후 유지 확인
 
-외부 호스팅은 완료되지 않았습니다.
+GitHub Pages는 `main` 브랜치의 루트 경로에서 배포하며, 루트 `index.html`이 `dist/index.html`의 앱 화면으로 연결합니다.
